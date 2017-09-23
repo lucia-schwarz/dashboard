@@ -4,7 +4,6 @@
 	<groupId>de.schwarzl</groupId>
 	<artifactId>charts</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<packaging>war</packaging>
 
 	<build>
 		<finalName>charts</finalName>
